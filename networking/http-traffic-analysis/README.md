@@ -34,4 +34,4 @@
 - Identified request and response packets
 - Analyzed headers and response codes
 - Observed network communication behavior
-- 
+  
